@@ -1,0 +1,14 @@
+F:\IKT Projektmunka\Csoportmunka1201\amoba\amoba\bin\Debug\amoba.exe.config
+F:\IKT Projektmunka\Csoportmunka1201\amoba\amoba\bin\Debug\amoba.exe
+F:\IKT Projektmunka\Csoportmunka1201\amoba\amoba\bin\Debug\amoba.pdb
+F:\IKT Projektmunka\Csoportmunka1201\amoba\amoba\obj\Debug\amoba.csproj.AssemblyReference.cache
+F:\IKT Projektmunka\Csoportmunka1201\amoba\amoba\obj\Debug\amoba.csproj.CoreCompileInputs.cache
+F:\IKT Projektmunka\Csoportmunka1201\amoba\amoba\obj\Debug\amoba.exe
+F:\IKT Projektmunka\Csoportmunka1201\amoba\amoba\obj\Debug\amoba.pdb
+H:\11.D\IKT Projektmunka\Csoportmunka1201\amoba\amoba\bin\Debug\amoba.exe.config
+H:\11.D\IKT Projektmunka\Csoportmunka1201\amoba\amoba\bin\Debug\amoba.exe
+H:\11.D\IKT Projektmunka\Csoportmunka1201\amoba\amoba\bin\Debug\amoba.pdb
+H:\11.D\IKT Projektmunka\Csoportmunka1201\amoba\amoba\obj\Debug\amoba.csproj.AssemblyReference.cache
+H:\11.D\IKT Projektmunka\Csoportmunka1201\amoba\amoba\obj\Debug\amoba.csproj.CoreCompileInputs.cache
+H:\11.D\IKT Projektmunka\Csoportmunka1201\amoba\amoba\obj\Debug\amoba.exe
+H:\11.D\IKT Projektmunka\Csoportmunka1201\amoba\amoba\obj\Debug\amoba.pdb

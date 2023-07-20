@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "amoba", "amoba\amoba.csproj", "{F873AEB0-3DB4-4DEE-9995-80F31DFA1A5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F873AEB0-3DB4-4DEE-9995-80F31DFA1A5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F873AEB0-3DB4-4DEE-9995-80F31DFA1A5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F873AEB0-3DB4-4DEE-9995-80F31DFA1A5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F873AEB0-3DB4-4DEE-9995-80F31DFA1A5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F98A26AB-F4C3-448B-BC3C-4D7EE7DD24D0}
+	EndGlobalSection
+EndGlobal
